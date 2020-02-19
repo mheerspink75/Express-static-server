@@ -1,4 +1,4 @@
-### Express Server
+### Express static server
 
 ```bash
 # Install dependencies
